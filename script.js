@@ -83,7 +83,7 @@
         const phosphositePlusURL =
           "https://www.phosphosite.org/proteinAction.action?id=630&showAllSites=true";
         const phosphositePlusURLx =
-          "https://www.phosphosite.org/proteinAction.action?id=1240&showAllSites=true";
+          "https://www.phosphosite.org/proteinAction.action?id=1240&showAllSites=true";     
 
         Plotly.relayout("heatmap", {
           "yaxis.ticktext": kinCategories.map(
