@@ -15,4 +15,4 @@ Welcome to the Heatmap Generator! This web application allows users to upload an
 ```bash
 git clone https://github.com/SouravSreelan/Heatmap.git
 
-cd Heatmap
+cd Heatmap 
