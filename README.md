@@ -10,7 +10,7 @@ Welcome to the Heatmap Generator! This web application allows users to upload an
 - **Responsive Design**: The application is responsive, making it accessible on various devices.
 
 
-### Clone the Repository
+### Clone the Repository  
 
 ```bash
 git clone https://github.com/SouravSreelan/Heatmap.git
