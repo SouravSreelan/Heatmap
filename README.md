@@ -1,4 +1,4 @@
-# Heatmap Generator
+# Heatmap Generator  
 
 Welcome to the Heatmap Generator! This web application allows users to upload an Excel file and automatically generate a heatmap using Plotly.js. The tool is designed to visualize data efficiently, providing an intuitive interface for data analysis. 
 
